@@ -9,10 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2023-07-03
 
 ### Added
-- Added this `CHANGELOG.md`!
-- Added new type `ReportingStructure` which governs the `numberOfReports` as described in the [Implementation Task 1 in the README.md](https://github.com/EnEmerson/mindex-java-code-challenge/blob/main/README.md#task-1)
+- Added this `CHANGELOG.md!`
+- Added new type `ReportingStructure` which governs the `numberOfReports` as described in the [Implementation Task 1 of the README.md](https://github.com/EnEmerson/mindex-java-code-challenge/blob/main/README.md#task-1)
     - Added new `GET` endpoint: `TODO: add endpoint here`
-- Added new type `Compensation` which which governs an employee's salary and other compensation parameters as described in the [Implementation Task 2 in the README.md](https://github.com/EnEmerson/mindex-java-code-challenge/blob/main/README.md#task-2)
+- Added new type `Compensation` which which governs an employee's salary and other compensation parameters as described in the [Implementation Task 2 of the README.md](https://github.com/EnEmerson/mindex-java-code-challenge/blob/main/README.md#task-2)
     - Added new `GET` endpoint: `TODO: add endpoint here`
     - Added new `POST` endpoint: `TODO: add endpoint here`
 
