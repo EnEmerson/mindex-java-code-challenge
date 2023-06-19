@@ -1,2 +1,5 @@
-package com.mindex.challenge.data;public class ReportingStructure {
+package com.mindex.challenge.data;
+
+public class ReportingStructure {
+
 }
